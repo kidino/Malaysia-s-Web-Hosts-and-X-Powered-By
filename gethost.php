@@ -2,7 +2,8 @@
 	$x = 'X-Powered-By: ';
 	$rmfile = 'README.md';
 	$hosts = file('hosts.txt');
-	file_put_contents($rmfile, "UPDATE: ".date("Y-m-d H:i:s"));
+	date_default_timezone_set("Asia/Kuala_Lumpur");	
+	file_put_contents($rmfile, "UPDATE: ".date("Y-m-d H:i:s e"));
 	file_put_contents($rmfile, "\n\nMalaysia-s-Web-Hosts-and-X-Powered-By\n=====================================\n\nThis repo shows X-Powered-By header information of web hosting companies in Malaysia. I simply run the script and it will update the README.md in this repo.\n\n", FILE_APPEND);
 
 	$c = 0;
