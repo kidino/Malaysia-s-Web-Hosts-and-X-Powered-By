@@ -8,3 +8,5 @@ This repo shows X-Powered-By header information of web hosting companies in Mala
 
 Make sure you have host.txt in the same folder and just run `php gethost.php`.
 
+### The List
+
