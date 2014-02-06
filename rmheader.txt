@@ -1,0 +1,10 @@
+
+Malaysia's Web Hosts and X-Powered-By
+=====================================
+
+This repo shows X-Powered-By header information of web hosting companies in Malaysia. Running the script will simply update the README.md. And then I push it back to this repo.
+
+### How to use
+
+Make sure you have host.txt in the same folder and just run `php gethost.php`.
+

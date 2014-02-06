@@ -1,9 +1,12 @@
-UPDATE: 2014-02-06 17:32:57 Asia/Kuala_Lumpur
-
-Malaysia-s-Web-Hosts-and-X-Powered-By
+UPDATE: 2014-02-06 17:39:47 Asia/Kuala_Lumpur
+Malaysia's Web Hosts and X-Powered-By
 =====================================
 
-This repo shows X-Powered-By header information of web hosting companies in Malaysia. I simply run the script and it will update the README.md in this repo.
+This repo shows X-Powered-By header information of web hosting companies in Malaysia. Running the script will simply update the README.md. And then I push it back to this repo.
+
+### How to use
+
+Make sure you have host.txt in the same folder and just run `php gethost.php`.
 
 1.  http://www.exabytes.com.my/ - PHP/5.3.27
 2.  http://www.internet-webhosting.com/ - PHP/5.4.24
