@@ -1,4 +1,4 @@
-UPDATE: 2014-02-07 06:53:40 Asia/Kuala_Lumpur
+UPDATE: 2014-02-07 07:03:28 Asia/Kuala_Lumpur
 Malaysia's Web Hosts and X-Powered-By
 =====================================
 
@@ -33,3 +33,15 @@ Make sure you have host.txt in the same folder and just run `php gethost.php`.
 21.  http://www.bluevyhost.com/ - PHP/5.3.28
 22.  https://fivio.com/ - W3 Total Cache/0.9.2.4
 23.  http://harimauhosting.com/ - not found
+24.  http://www.hostpro2u.com/ - ASP.NET
+25.  http://www.mbcc.com.my/ - ASP.NET
+26.  https://www.firstonline.com.my/eweb/index.php - PHP/5.3.10
+27.  http://www.easynet.my/ - not found
+28.  http://flexihostings.com.my/ - PHP/5.2.17
+29.  http://www.mycloud.my/mycloud/ - ASP.NET
+30.  http://www.hileytech.com/ - not found
+31.  http://www.registrar.com.my/ - ASP.NET
+32.  http://www.baitulbytes.com.my/ - PHP/5.3.25
+33.  http://www.netonboard.com/ - W3 Total Cache/0.9.2.5
+34.  http://www.1host.my/ - PHP/5.3.28
+35.  http://www.asiapacific.net.my/ - PleskLin
