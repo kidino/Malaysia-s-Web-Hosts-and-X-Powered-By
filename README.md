@@ -1,4 +1,4 @@
-UPDATE: 2014-02-18 15:32:02 Asia/Kuala_Lumpur
+UPDATE: 2014-04-09 11:26:37 Asia/Kuala_Lumpur
 Malaysia's Web Hosts and X-Powered-By
 =====================================
 
@@ -10,18 +10,18 @@ Make sure you have host.txt in the same folder and just run `php gethost.php`.
 
 ### The List
 
-1.  http://www.exabytes.com.my/ - PHP/5.3.27
-2.  http://www.internet-webhosting.com/ - PHP/5.4.24
+1.  http://www.exabytes.com.my/ - PHP/5.3.28
+2.  http://www.internet-webhosting.com/ - PHP/5.4.26
 3.  http://www.emerge.com.my/index.html - ASP.NET
 4.  http://www.serverfreak.com/ - PHP/5.3.28
-5.  https://www.shinjiru.com.my/ - ASP.NET
+5.  https://www.shinjiru.com.my/ - not found
 6.  http://www.ipserverone.com/ - PHP/5.3.27
 7.  http://www.mesrahosting.net/ - not found
-8.  http://www.datakl.com/ - PHP/5.4.21
+8.  http://www.datakl.com/ - PHP/5.3.28
 9.  http://www.mercumaya.net/ - PleskLin
 10.  https://www.icore.com.my/ - PHP/5.3.25
 11.  http://www.netkl.com/ - not found
-12.  http://on.net.my/ - PHP/5.4.19
+12.  http://on.net.my/ - PHP/5.4.26
 13.  http://www.yeahhost.com.my/ - ASP.NET
 14.  http://www.e-globalhosting.com/ - ASP.NET
 15.  http://www.malaysiahosting2u.com/ - not found
